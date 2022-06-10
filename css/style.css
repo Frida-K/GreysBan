@@ -1,0 +1,39 @@
+*{
+    font-family:'Montserrat', sans-serif;
+}
+.hero {
+    height: 20%;
+}
+
+footer {
+    background-color: gray;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footerLink {
+    text-decoration: none;
+    color: black;
+}
+
+#backgroundImage {
+    background-image: url(../images/imgBanniere.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 100%;
+}
+
+iframe{
+    width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+  
+.navbar-brand{
+    
+}
+   
+}
